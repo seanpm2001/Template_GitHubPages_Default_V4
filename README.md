@@ -238,9 +238,9 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 File type: `Markdown (*.md)`
 
-File version: `0.11 (Friday, July 16th 2021 at 9:20 pm)`
+File version: `0.11B (Friday, July 16th 2021 at 9:25 pm)`
 
-Line count: `0,330`
+Line count: `0,342`
 
 ***
 
@@ -302,6 +302,18 @@ Version 0.11 (Friday, July 16th 2021 at 9:20 pm)
 
 > * No other changes in version 0.11
 
+Version 0.11B (Friday, July 16th 2021 at 9:25 pm)
+
+> Changes:
+  
+> * Fixed the footer, removed bad link (ddg.com does not redirect to duckduckgo)
+  
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 0.11B
+
 Version 1 (Coming soon)
 
 > Changes:
@@ -322,7 +334,7 @@ Version 2 (Coming soon)
 
 ## You have reached the end of the README file
 
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to DuckDuckGo](https://ddg.com) )
+( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to DuckDuckGo](https://duckduckgo.com) )
 
 ### EOF
 
