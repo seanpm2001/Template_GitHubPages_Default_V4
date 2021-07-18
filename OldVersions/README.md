@@ -17,6 +17,6 @@ This directory contains old versions of template root pages for this template pr
 
 ( [SECURITY_INCIDENTS.md](/OldVersions/SECURITY_INCIDENTS/1/1-100/) | [SECURITY_INCIDENTS.md (at root)](/SECURITY_INCIDENTS.md) )
 
-( [README.md (/OldVersions/)](/README_OLDVERSIONS/1/1-100/) )
+( [README.md (/OldVersions/)](/OldVersions/README_OLDVERSIONS/1/1-100/) )
 
 ***
